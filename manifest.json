@@ -1,0 +1,20 @@
+{
+  "name": "Traductor Pro Nicaragua",
+  "short_name": "Traductor Pro",
+  "start_url": "traductor.html",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#0033a0",
+  "icons": [
+    {
+      "src": "1771469992236.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "1771469992236.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
